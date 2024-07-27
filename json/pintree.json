@@ -252,6 +252,13 @@
                   },
                   {
                     "type": "link",
+                    "addDate": 1721876813127,
+                    "title": "小报童",
+                    "icon": "https://logo.clearbit.com/xiaobot.net",
+                    "url": "https://xiaobot.net/home.html"
+                  },
+                  {
+                    "type": "link",
                     "addDate": 1687757670000,
                     "title": "少数派",
                     "icon": "https://logo.clearbit.com/sspai.com",
@@ -1199,34 +1206,6 @@
             "children": [
               {
                 "type": "folder",
-                "addDate": 1716881084045,
-                "title": "VP狗狗",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1699492238000,
-                    "title": "狗狗加速",
-                    "icon": "https://logo.clearbit.com/dg1.top",
-                    "url": "https://dg1.top/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1687757670000,
-                    "title": "狗狗加速",
-                    "icon": "https://logo.clearbit.com/ss.dg1.top",
-                    "url": "https://ss.dg1.top/#/dashboard"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1699926496000,
-                    "title": "狗狗加速.com",
-                    "icon": "https://logo.clearbit.com/panel.dg1.top",
-                    "url": "https://panel.dg1.top/#/dashboard"
-                  }
-                ]
-              },
-              {
-                "type": "folder",
                 "addDate": 1716881084046,
                 "title": "VP猫熊网络",
                 "children": [
@@ -1616,6 +1595,13 @@
                 "title": "熊猫云",
                 "icon": "https://logo.clearbit.com/xiongmaoyun2024.com",
                 "url": "https://xiongmaoyun2024.com/auth/login"
+              },
+              {
+                "type": "link",
+                "addDate": 1721918913341,
+                "title": "狗狗加速",
+                "icon": "https://logo.clearbit.com/www.dg6.me",
+                "url": "https://www.dg6.me/"
               },
               {
                 "type": "link",
@@ -5200,6 +5186,13 @@
                 "title": "Qlock - A JavaScript Quine Clock",
                 "icon": "https://logo.clearbit.com/aem1k.com",
                 "url": "http://aem1k.com/qlock/"
+              },
+              {
+                "type": "link",
+                "addDate": 1721920987677,
+                "title": "uicolors.app/create",
+                "icon": "https://logo.clearbit.com/uicolors.app",
+                "url": "https://uicolors.app/create"
               }
             ]
           },
@@ -8219,6 +8212,13 @@
             "title": "Fake address generator",
             "icon": "https://logo.clearbit.com/www.fakexy.com",
             "url": "https://www.fakexy.com/fake-address-generator-ca"
+          },
+          {
+            "type": "link",
+            "addDate": 1721907143260,
+            "title": "Retro Card",
+            "icon": "https://logo.clearbit.com/retro.iwhy.dev",
+            "url": "https://retro.iwhy.dev/"
           }
         ]
       },
@@ -10314,14 +10314,14 @@
               {
                 "type": "link",
                 "addDate": 1687757670000,
-                "title": "2019年python深入浅出进阶教程【黑马程序员】_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+                "title": "2019年python深入浅出进阶",
                 "icon": "https://logo.clearbit.com/www.bilibili.com",
                 "url": "https://www.bilibili.com/video/av55857574?p=60"
               },
               {
                 "type": "link",
                 "addDate": 1687757670000,
-                "title": "2019求知讲堂零基础Java入门编程视频教程 高口碑 无废话 无尿点_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+                "title": "2019求知讲堂零基础Java入门编程视频教程",
                 "icon": "https://logo.clearbit.com/www.bilibili.com",
                 "url": "https://www.bilibili.com/video/av61604219/"
               }
@@ -13085,6 +13085,13 @@
             "children": [
               {
                 "type": "link",
+                "addDate": 1721895023427,
+                "title": "feishen29/IMAGDressing · Hugging Face",
+                "icon": "https://logo.clearbit.com/huggingface.co",
+                "url": "https://huggingface.co/feishen29/IMAGDressing"
+              },
+              {
+                "type": "link",
                 "addDate": 1721709505091,
                 "title": "Live Portrait - a Hugging Face Space by KwaiVGI",
                 "icon": "https://logo.clearbit.com/huggingface.co",
@@ -13512,17 +13519,17 @@
             "children": [
               {
                 "type": "link",
-                "addDate": 1712969367000,
-                "title": "AI Voice Generator & Text to Speech | ElevenLabs",
-                "icon": "https://logo.clearbit.com/elevenlabs.io",
-                "url": "https://elevenlabs.io/"
-              },
-              {
-                "type": "link",
                 "addDate": 1705124148000,
                 "title": "AIArtGeneratorOpenArt",
                 "icon": "https://logo.clearbit.com/openart.ai",
                 "url": "https://openart.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1712969367000,
+                "title": "AIVoiceGeneratorTextSpeech|ElevenLabs",
+                "icon": "https://logo.clearbit.com/elevenlabs.io",
+                "url": "https://elevenlabs.io/"
               },
               {
                 "type": "link",
@@ -13572,6 +13579,13 @@
                 "title": "Genny | Home",
                 "icon": "https://logo.clearbit.com/genny.lovo.ai",
                 "url": "https://genny.lovo.ai/my-workspace/project"
+              },
+              {
+                "type": "link",
+                "addDate": 1721880203522,
+                "title": "getimg.ai",
+                "icon": "https://logo.clearbit.com/getimg.ai",
+                "url": "https://getimg.ai/home"
               },
               {
                 "type": "link",
@@ -13702,7 +13716,7 @@
               {
                 "type": "link",
                 "addDate": 1721741423124,
-                "title": "老照片AI - AI老照片视频生成器, 让老照片动起来",
+                "title": "老照片AI",
                 "icon": "https://logo.clearbit.com/laozhaopianai.com",
                 "url": "https://laozhaopianai.com/"
               }
