@@ -877,6 +877,13 @@
               },
               {
                 "type": "link",
+                "addDate": 1702101075000,
+                "title": "AI工具",
+                "icon": "https://logo.clearbit.com/www.wangdu.site",
+                "url": "https://www.wangdu.site/category/software/ai"
+              },
+              {
+                "type": "link",
                 "addDate": 1687757670000,
                 "title": "ChatGPT导航站",
                 "icon": "https://logo.clearbit.com/lzw.me",
@@ -895,6 +902,13 @@
                 "title": "XiaoHu.AI学院",
                 "icon": "https://logo.clearbit.com/xiaohu.ai",
                 "url": "https://xiaohu.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1687757670000,
+                "title": "空白网络|资源分享",
+                "icon": "https://logo.clearbit.com/www.aihoom.com",
+                "url": "https://www.aihoom.com/"
               },
               {
                 "type": "link",
@@ -1616,6 +1630,13 @@
                 "title": "超级机场",
                 "icon": "https://logo.clearbit.com/www.chaojijichang.com",
                 "url": "https://www.chaojijichang.com/#/login"
+              },
+              {
+                "type": "link",
+                "addDate": 1722300693022,
+                "title": "顶级机场",
+                "icon": "https://logo.clearbit.com/xn--mes358a9urctx.com",
+                "url": "https://xn--mes358a9urctx.com/#/login"
               }
             ]
           },
@@ -2251,48 +2272,6 @@
           },
           {
             "type": "folder",
-            "addDate": 1716881084053,
-            "title": "三江电子-宜宾市一中",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1701138947000,
-                "title": "card8081",
-                "icon": "https://logo.clearbit.com/10.110.2.2",
-                "url": "http://10.110.2.2:8081/"
-              },
-              {
-                "type": "link",
-                "addDate": 1701138979000,
-                "title": "card8081back",
-                "icon": "https://logo.clearbit.com/10.110.2.2",
-                "url": "http://10.110.2.2:8081/singbon/background/system/admin/setting/index.do"
-              },
-              {
-                "type": "link",
-                "addDate": 1705542855000,
-                "title": "yb宝塔",
-                "icon": "https://logo.clearbit.com/10.110.2.2",
-                "url": "http://10.110.2.2:35297/1f6405ed"
-              },
-              {
-                "type": "link",
-                "addDate": 1701137413000,
-                "title": "宜宾市一中",
-                "icon": "https://logo.clearbit.com/172.31.35.20",
-                "url": "http://172.31.35.20/uis/checkEntryServlet?"
-              },
-              {
-                "type": "link",
-                "addDate": 1701248000000,
-                "title": "扣费开启查询",
-                "icon": "https://logo.clearbit.com/10.110.2.2",
-                "url": "http://10.110.2.2:8081/mini/terminal/manager/update/CidToYqsOnlineCardConsumeSwitch.do"
-              }
-            ]
-          },
-          {
-            "type": "folder",
             "addDate": 1716881084055,
             "title": "嘉荣华",
             "children": [
@@ -2393,18 +2372,46 @@
                 "title": "jrh-云南水利",
                 "children": [
                   {
-                    "type": "link",
-                    "addDate": 1721453747863,
-                    "title": "bt-rh-ynsl",
-                    "icon": "https://logo.clearbit.com/slsd.openice.cloud",
-                    "url": "http://slsd.openice.cloud:10007/MbZ8VyyS"
+                    "type": "folder",
+                    "addDate": 1722222923976,
+                    "title": "测试",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1721453747863,
+                        "title": "bt-rh-ynsl",
+                        "icon": "https://logo.clearbit.com/slsd.openice.cloud",
+                        "url": "http://slsd.openice.cloud:10007/MbZ8VyyS"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1721453671088,
+                        "title": "card",
+                        "icon": "https://logo.clearbit.com/slsd.openice.cloud",
+                        "url": "http://slsd.openice.cloud:8081/"
+                      }
+                    ]
                   },
                   {
-                    "type": "link",
-                    "addDate": 1721453671088,
-                    "title": "card",
-                    "icon": "https://logo.clearbit.com/slsd.openice.cloud",
-                    "url": "http://slsd.openice.cloud:8081/"
+                    "type": "folder",
+                    "addDate": 1722222934152,
+                    "title": "生产",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1722223042607,
+                        "title": "jrh-ynsl-prod-bt",
+                        "icon": "https://logo.clearbit.com/192.168.150.194",
+                        "url": "https://192.168.150.194:23743/85133a7f"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1722305522513,
+                        "title": "jrh-ynslxy-bt",
+                        "icon": "https://logo.clearbit.com/sdk.ynwater.edu.cn",
+                        "url": "http://sdk.ynwater.edu.cn:10004/85133a7f"
+                      }
+                    ]
                   }
                 ]
               },
@@ -2630,7 +2637,7 @@
           {
             "type": "folder",
             "addDate": 1716881084057,
-            "title": "大连中科院能源学院",
+            "title": "大连中科能源学院",
             "children": [
               {
                 "type": "folder",
@@ -2666,6 +2673,48 @@
                     "url": "http://www.wiegand.com.cn/htm/2/ruanjianxiazai.htm"
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1716881084053,
+            "title": "宜宾一中",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1701138947000,
+                "title": "card8081",
+                "icon": "https://logo.clearbit.com/10.110.2.2",
+                "url": "http://10.110.2.2:8081/"
+              },
+              {
+                "type": "link",
+                "addDate": 1701138979000,
+                "title": "card8081back",
+                "icon": "https://logo.clearbit.com/10.110.2.2",
+                "url": "http://10.110.2.2:8081/singbon/background/system/admin/setting/index.do"
+              },
+              {
+                "type": "link",
+                "addDate": 1705542855000,
+                "title": "yb宝塔",
+                "icon": "https://logo.clearbit.com/10.110.2.2",
+                "url": "http://10.110.2.2:35297/1f6405ed"
+              },
+              {
+                "type": "link",
+                "addDate": 1701137413000,
+                "title": "宜宾市一中",
+                "icon": "https://logo.clearbit.com/172.31.35.20",
+                "url": "http://172.31.35.20/uis/checkEntryServlet?"
+              },
+              {
+                "type": "link",
+                "addDate": 1701248000000,
+                "title": "扣费开启查询",
+                "icon": "https://logo.clearbit.com/10.110.2.2",
+                "url": "http://10.110.2.2:8081/mini/terminal/manager/update/CidToYqsOnlineCardConsumeSwitch.do"
               }
             ]
           },
@@ -2806,6 +2855,13 @@
                 "title": "card81",
                 "icon": "https://logo.clearbit.com/220.168.210.231",
                 "url": "http://220.168.210.231:10004/"
+              },
+              {
+                "type": "link",
+                "addDate": 1722311412791,
+                "title": "瑞信-芙蓉学院",
+                "icon": "https://logo.clearbit.com/220.168.210.231",
+                "url": "http://220.168.210.231:10002/3ada6924"
               }
             ]
           },
@@ -7254,6 +7310,13 @@
               },
               {
                 "type": "link",
+                "addDate": 1722164570892,
+                "title": "SinqiTools",
+                "icon": "https://logo.clearbit.com/sinqi.tools",
+                "url": "https://sinqi.tools/zh"
+              },
+              {
+                "type": "link",
                 "addDate": 1710565517000,
                 "title": "WebBrowserCanIuse",
                 "icon": "https://logo.clearbit.com/caniuse.com",
@@ -7286,6 +7349,13 @@
                 "title": "查询IP",
                 "icon": "https://logo.clearbit.com/ip111.cn",
                 "url": "http://ip111.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1721800150819,
+                "title": "鲜艺官网",
+                "icon": "https://logo.clearbit.com/94xy.com",
+                "url": "https://94xy.com/"
               }
             ]
           },
@@ -7509,6 +7579,13 @@
                       },
                       {
                         "type": "link",
+                        "addDate": 1717122628745,
+                        "title": "Microsoft Update Catalog",
+                        "icon": "https://logo.clearbit.com/www.catalog.update.microsoft.com",
+                        "url": "https://www.catalog.update.microsoft.com/Home.aspx"
+                      },
+                      {
+                        "type": "link",
                         "addDate": 1687757670000,
                         "title": "Microsoft Update Catalog升级补丁等下载",
                         "icon": "https://logo.clearbit.com/www.catalog.update.microsoft.com",
@@ -7534,6 +7611,13 @@
                         "title": "VisualStudio TeamServices微软代码管理",
                         "icon": "https://logo.clearbit.com/zghnzch.visualstudio.com",
                         "url": "https://zghnzch.visualstudio.com/_projects"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1717120554383,
+                        "title": "WinDbg",
+                        "icon": "https://logo.clearbit.com/www.windbg.org",
+                        "url": "http://www.windbg.org/"
                       },
                       {
                         "type": "link",
@@ -7576,13 +7660,6 @@
                         "title": "CommMonitor,串口监视精灵，串口过滤,串口监控-CEIWEI软件",
                         "icon": "https://logo.clearbit.com/www.ceiwei.com",
                         "url": "http://www.ceiwei.com/mt/"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1687757670000,
-                        "title": "Hyper™",
-                        "icon": "https://logo.clearbit.com/hyper.is",
-                        "url": "https://hyper.is/"
                       },
                       {
                         "type": "link",
@@ -7649,6 +7726,13 @@
                       },
                       {
                         "type": "link",
+                        "addDate": 1722155064385,
+                        "title": "WizTree",
+                        "icon": "https://logo.clearbit.com/diskanalyzer.com",
+                        "url": "https://diskanalyzer.com/"
+                      },
+                      {
+                        "type": "link",
                         "addDate": 1687757670000,
                         "title": "x64dbg",
                         "icon": "https://logo.clearbit.com/x64dbg.com",
@@ -7683,36 +7767,15 @@
                           {
                             "type": "link",
                             "addDate": 1687757670000,
-                            "title": "win10自动修复系统 - Microsoft Community",
+                            "title": "win10自动修复系统",
                             "icon": "https://logo.clearbit.com/answers.microsoft.com",
                             "url": "https://answers.microsoft.com/zh-hans/windows/forum/all/win10%E8%87%AA%E5%8A%A8%E4%BF%AE%E5%A4%8D%E7%B3%BB/8885585d-c8ad-45dd-8ee4-0b262aa68c20"
                           }
                         ]
                       }
                     ]
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1717122628745,
-                    "title": "Microsoft Update Catalog",
-                    "icon": "https://logo.clearbit.com/www.catalog.update.microsoft.com",
-                    "url": "https://www.catalog.update.microsoft.com/Home.aspx"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1717120554383,
-                    "title": "WinDbg",
-                    "icon": "https://logo.clearbit.com/www.windbg.org",
-                    "url": "http://www.windbg.org/"
                   }
                 ]
-              },
-              {
-                "type": "link",
-                "addDate": 1702101075000,
-                "title": "AI工具-文武科技柜",
-                "icon": "https://logo.clearbit.com/www.wangdu.site",
-                "url": "https://www.wangdu.site/category/software/ai"
               },
               {
                 "type": "link",
@@ -7723,17 +7786,17 @@
               },
               {
                 "type": "link",
-                "addDate": 1706327803000,
-                "title": "Download the WhatPulse Software | WhatPulse",
-                "icon": "https://logo.clearbit.com/whatpulse.org",
-                "url": "https://whatpulse.org/downloads/"
-              },
-              {
-                "type": "link",
                 "addDate": 1717402606528,
                 "title": "glogg — Download",
                 "icon": "https://logo.clearbit.com/glogg.bonnefon.org",
                 "url": "https://glogg.bonnefon.org/download.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1687757670000,
+                "title": "Hyper™",
+                "icon": "https://logo.clearbit.com/hyper.is",
+                "url": "https://hyper.is/"
               },
               {
                 "type": "link",
@@ -7766,16 +7829,23 @@
               {
                 "type": "link",
                 "addDate": 1702044727000,
-                "title": "PixPin 截图/贴图/长截图/文字识别/标注 | PixPin 截图/贴图/长截图/文字识别/标注",
+                "title": "PixPin截图",
                 "icon": "https://logo.clearbit.com/pixpinapp.com",
                 "url": "https://pixpinapp.com/"
               },
               {
                 "type": "link",
                 "addDate": 1719300383745,
-                "title": "全套版本，持续免费更新中...",
+                "title": "PS|PR|ADOBE全套",
                 "icon": "https://logo.clearbit.com/www.yuque.com",
                 "url": "https://www.yuque.com/qcmt/hg31u5"
+              },
+              {
+                "type": "link",
+                "addDate": 1706327803000,
+                "title": "WhatPulse",
+                "icon": "https://logo.clearbit.com/whatpulse.org",
+                "url": "https://whatpulse.org/downloads/"
               },
               {
                 "type": "link",
@@ -7790,20 +7860,6 @@
                 "title": "服务器管理软件-护卫神",
                 "icon": "https://logo.clearbit.com/www.hws.com",
                 "url": "https://www.hws.com/soft/"
-              },
-              {
-                "type": "link",
-                "addDate": 1687757670000,
-                "title": "空白网络|资源分享基地",
-                "icon": "https://logo.clearbit.com/www.aihoom.com",
-                "url": "https://www.aihoom.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1721800150819,
-                "title": "鲜艺官网",
-                "icon": "https://logo.clearbit.com/94xy.com",
-                "url": "https://94xy.com/"
               }
             ]
           },
@@ -8124,6 +8180,34 @@
           },
           {
             "type": "folder",
+            "addDate": 1722058368111,
+            "title": "海报-设计-美化-社交",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1721907143260,
+                "title": "Retro Card",
+                "icon": "https://logo.clearbit.com/retro.iwhy.dev",
+                "url": "https://retro.iwhy.dev/"
+              },
+              {
+                "type": "link",
+                "addDate": 1722239665625,
+                "title": "SlothCard Generator",
+                "icon": "https://logo.clearbit.com/card.pomodiary.com",
+                "url": "https://card.pomodiary.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1722058382426,
+                "title": "Vite App",
+                "icon": "https://logo.clearbit.com/slogan.ishell.online",
+                "url": "https://slogan.ishell.online/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
             "addDate": 1716881084095,
             "title": "镜像源",
             "children": [
@@ -8212,13 +8296,6 @@
             "title": "Fake address generator",
             "icon": "https://logo.clearbit.com/www.fakexy.com",
             "url": "https://www.fakexy.com/fake-address-generator-ca"
-          },
-          {
-            "type": "link",
-            "addDate": 1721907143260,
-            "title": "Retro Card",
-            "icon": "https://logo.clearbit.com/retro.iwhy.dev",
-            "url": "https://retro.iwhy.dev/"
           }
         ]
       },
@@ -12927,14 +13004,21 @@
           {
             "type": "link",
             "addDate": 1687757670000,
-            "title": "PyQt5 安装 以及使用 designer 开发 python GUI 界面_Programming Change The World-CSDN博客_pyqtdesigner安装",
+            "title": "netty实战",
+            "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+            "url": "https://zhuanlan.zhihu.com/p/276113715"
+          },
+          {
+            "type": "link",
+            "addDate": 1687757670000,
+            "title": "PyQt5 安装 以及使用 designer开发 python GUI",
             "icon": "https://logo.clearbit.com/blog.csdn.net",
             "url": "https://blog.csdn.net/weixin_43734095/article/details/106761680"
           },
           {
             "type": "link",
             "addDate": 1687757670000,
-            "title": "selenium 安装与 chromedriver安装 - Rogn - 博客园",
+            "title": "selenium-chromedriver安装",
             "icon": "https://logo.clearbit.com/www.cnblogs.com",
             "url": "https://www.cnblogs.com/lfri/p/10542797.html"
           },
@@ -12948,21 +13032,28 @@
           {
             "type": "link",
             "addDate": 1687757670000,
-            "title": "spring security 获取用户信息_neweastsun的专栏-CSDN博客_springsecurity 获取用户信息",
+            "title": "spring security 获取用户信息",
             "icon": "https://logo.clearbit.com/blog.csdn.net",
             "url": "https://blog.csdn.net/neweastsun/article/details/79337478"
           },
           {
             "type": "link",
             "addDate": 1687757670000,
-            "title": "springboot-websocket: springboot+websocket,支持自动重连",
+            "title": "springboot-websocket-支持自动重连",
             "icon": "https://logo.clearbit.com/gitee.com",
             "url": "https://gitee.com/noneyet/springboot-websocket?_from=gitee_search"
           },
           {
             "type": "link",
             "addDate": 1687757670000,
-            "title": "SpringBoot中并发定时任务的实现、动态定时任务的实现（看这一篇就够了） - 会炼钢的小白龙 - 博客园",
+            "title": "SpringBoot与SpringCloud的版本对应",
+            "icon": "https://logo.clearbit.com/www.cnblogs.com",
+            "url": "https://www.cnblogs.com/joshua317/p/15302934.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1687757670000,
+            "title": "SpringBoot中并发定时任务动态定时任务",
             "icon": "https://logo.clearbit.com/www.cnblogs.com",
             "url": "https://www.cnblogs.com/baixianlong/p/10659045.html"
           },
@@ -12976,14 +13067,14 @@
           {
             "type": "link",
             "addDate": 1687757670000,
-            "title": "tio-websocket: 解耦型websocket,支持ws协议,wss协议;支持心跳保活,失败自动重连,避免重复推送问题,实现websocket系统高可用;",
+            "title": "tio-websocket-解耦型websocket",
             "icon": "https://logo.clearbit.com/gitee.com",
             "url": "https://gitee.com/juniorRay/tio-websocket?_from=gitee_search"
           },
           {
             "type": "link",
             "addDate": 1687757670000,
-            "title": "Vcpkg 的安装与使用_HominSu的博客-CSDN博客_vcpkg安装",
+            "title": "Vcpkg安装与使用",
             "icon": "https://logo.clearbit.com/blog.csdn.net",
             "url": "https://blog.csdn.net/weixin_43089669/article/details/121582973"
           },
@@ -12997,30 +13088,16 @@
           {
             "type": "link",
             "addDate": 1687757670000,
-            "title": "吐血推荐--SpringBoot与SpringCloud的版本对应说明，兼容说明 - joshua317 - 博客园",
-            "icon": "https://logo.clearbit.com/www.cnblogs.com",
-            "url": "https://www.cnblogs.com/joshua317/p/15302934.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1687757670000,
-            "title": "最牛逼的故障诊断工具！秒级定位线上问题 - 知乎",
-            "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-            "url": "https://zhuanlan.zhihu.com/p/378886239"
-          },
-          {
-            "type": "link",
-            "addDate": 1687757670000,
-            "title": "永久免费的公共UNIX服务器 - 梅塔沃克 - 专注跨境",
+            "title": "免费NIX服务器梅塔沃克",
             "icon": "https://logo.clearbit.com/iweec.com",
             "url": "https://iweec.com/410.html"
           },
           {
             "type": "link",
             "addDate": 1687757670000,
-            "title": "这份netty实战，一杯咖啡的时间就可以看完，详细！干货！ - 知乎",
+            "title": "知乎-故障诊断工具定位线上问题",
             "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-            "url": "https://zhuanlan.zhihu.com/p/276113715"
+            "url": "https://zhuanlan.zhihu.com/p/378886239"
           },
           {
             "type": "link",
@@ -13232,6 +13309,13 @@
               },
               {
                 "type": "link",
+                "addDate": 1699338509000,
+                "title": "character.ai",
+                "icon": "https://logo.clearbit.com/beta.character.ai",
+                "url": "https://beta.character.ai/"
+              },
+              {
+                "type": "link",
                 "addDate": 1690345921000,
                 "title": "Claude",
                 "icon": "https://logo.clearbit.com/www.anthropic.com",
@@ -13330,13 +13414,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1699338509000,
-                "title": "character.ai",
-                "icon": "https://logo.clearbit.com/beta.character.ai",
-                "url": "https://beta.character.ai/"
-              },
-              {
-                "type": "link",
                 "addDate": 1702104584000,
                 "title": "ChatGPT Next Web",
                 "icon": "https://logo.clearbit.com/chat.mouxan.cn",
@@ -13348,6 +13425,13 @@
                 "title": "Chatgpt在线-qdymys",
                 "icon": "https://logo.clearbit.com/ai.qdymys.cn",
                 "url": "https://ai.qdymys.cn/#/chat"
+              },
+              {
+                "type": "link",
+                "addDate": 1722214003941,
+                "title": "ChatK",
+                "icon": "https://logo.clearbit.com/chat.oaichat.cc",
+                "url": "https://chat.oaichat.cc/"
               },
               {
                 "type": "link",
@@ -13436,7 +13520,7 @@
               {
                 "type": "link",
                 "addDate": 1708479728000,
-                "title": "Schat 小兔出品的超级人工智能",
+                "title": "Schat",
                 "icon": "https://logo.clearbit.com/share.aischat.xyz",
                 "url": "https://share.aischat.xyz/#/chat"
               },
@@ -13453,6 +13537,13 @@
                 "title": "TXYZ-论文AI",
                 "icon": "https://logo.clearbit.com/txyz.ai",
                 "url": "https://txyz.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1722300865303,
+                "title": "VecMul|FreeGPT",
+                "icon": "https://logo.clearbit.com/www.vecmul.com",
+                "url": "https://www.vecmul.com/"
               },
               {
                 "type": "link",
@@ -13474,13 +13565,6 @@
                 "title": "伊莉思AGI",
                 "icon": "https://logo.clearbit.com/ylsapp.com",
                 "url": "https://ylsapp.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1700113722000,
-                "title": "在问",
-                "icon": "https://logo.clearbit.com/txc.qq.com",
-                "url": "https://txc.qq.com/products/611445/"
               },
               {
                 "type": "link",
