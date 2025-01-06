@@ -1,71 +1,53 @@
 # Pintree
 
-[English](README.md) | [中文](README.zh.md)
+<div align="center">
 
-Pintree is an open-source project that aims to convert browser bookmarks into a navigation website. With just a few simple steps, you can transform your bookmarks into a beautiful and user-friendly navigation page.
+[English](./README.md) | [简体中文](./README-zh.md)
 
-## Features and Goals
+  <h3>Pintree - Turn Your Browser Bookmarks into a Directory Website</h3>
+  <p>Create and monetize your own directory website from browser bookmarks in minutes.</p>
+</div>
 
-- Export browser bookmarks
-- Convert bookmark files to JSON format
-- Generate a static navigation website
+## 🔗 Links
 
-## Installation and Running
+- [Pintree Official Website](https://pintree.io)
+- [Demo](https://demo.pintree.io)
+- [Documentation](https://docs.pintree.io)
+- [Changelog](https://docs.pintree.io/en/changelog)
 
-### Step 1: Download Browser Bookmarks
+## ✨ Features
 
-1. Install the [Pintree Bookmarks Exporter](https://chromewebstore.google.com/detail/pintree-bookmarks-exporte/mjcglnkikjidokobpfdcdmcnfdicojce) extension.
-2. Use the extension to export browser bookmarks and save the JSON file locally.
+### Basic Version (Free)
+- 📑 Unlimited Import/Export Bookmarks
+- 📁 Bookmark Management
+- 🎨 Basic Theme Customization
+- 🔍 Bookmark Search
 
-![](https://github.com/Pintree-io/pintree/blob/main/assets/guide/step1.png)
+### [Professional Version (PRO)](https://www.pintree.io/#pricing)
+- 📑 All Basic Version Features
+- 📚 Multiple Collection Switching
+- 🔒 Private Collections
+- 📢 Multiple Ad Space Configuration
+- 🤖 AI Search
+- 🎯 Professional SEO Optimization
+- 📊 Detailed Access Statistics
+- 💻 Priority Technical Support
+- 🕒 Lifetime Access
+- 🔄 Free Lifetime Updates
 
-### Step 2: Fork the Project
+## 🛠️ Tech Stack
 
-1. Visit the [Pintree GitHub repository](https://github.com/Pintree-io/pintree).
-2. Click the `Fork` button in the upper right corner of the page to fork the project to your GitHub account.
+- **Frontend&Backend**: Next.js
+- **Deployment**: Vercel
+- **Database**: PostgreSQL
 
-![](https://github.com/Pintree-io/pintree/blob/main/assets/guide/step2.png)
+## 👥 Community
 
-### Step 3: Replace the JSON File
+- Twitter: [@pintree_io](https://twitter.com/pintree_io)
+- GitHub: [github.com/Pintree-io](https://github.com/Pintree-io)
+- Discord: [Join Community](https://discord.gg/gJTrkHFg)
+- Email: feedback@pintree.io
 
-1. Open the `pintree` repository in your GitHub account (the one you just forked).
-2. Click on the `json` folder in the repository.
-3. Click the `Upload files` button, select the JSON file you downloaded earlier, and upload it.
-4. Make sure the uploaded file is named `pintree.json`, and select `Commit changes`.
+## ❤️ Contributing
 
-![](https://github.com/Pintree-io/pintree/blob/main/assets/guide/step3.png)
-
-### Step 4: Enable GitHub Pages
-
-1. In your `pintree` repository page, click on `Settings`.
-2. Find the `Pages` option.
-3. In the `Source` dropdown menu, select the `gh-pages` branch and click `Save`.
-4. After a few minutes, your static website will be available at `https://yourusername.github.io/pintree`. Remember to replace `yourusername`.
-
-![](https://github.com/Pintree-io/pintree/blob/main/assets/guide/step4.png)
-
-## Technologies Used
-
-- HTML/CSS/JavaScript
-- JSON format processing
-- Static website hosting
-
-## Contribution Guidelines
-
-Contributions are welcome! Please follow these steps to participate in the project:
-
-1. Fork this repository: https://github.com/Pintree-io/pintree/tree/main
-2. Create a new branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Submit a Pull Request
-
-Please note that the `main` branch is the source code branch of the project, while the `gh-pages` branch is the branch for the packaged static website code. Develop and submit changes on the `main` branch, and we will be responsible for packaging and publishing the code to the `gh-pages` branch.
-
-## Contact
-
-If you have any questions or suggestions, please contact us through the following ways:
-- Project website: [Pintree](https://pintree.io/)
-- Email: viggo.zw@gmail.com
-
-Thank you for using and supporting Pintree!
+We welcome Issues and Pull Requests to help improve this documentation.
